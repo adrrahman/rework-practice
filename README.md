@@ -26,6 +26,8 @@ flowchart TD
 | Recall    |       |       |
 | F1        |       |       |
 
+Recall can be adjusted by using chunk limit 5 to 10 to make answer has more grounded chunks
+
 ## Cara Menjalankan
 
 Require python >= 3.10
