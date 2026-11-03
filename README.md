@@ -20,4 +20,17 @@ flowchart TD
 
 ## Metrik
 
+| Metrics   | micro | macro |
+|-----------|-------|-------|
+| Precision |       |       |
+| Recall    |       |       |
+| F1        |       |       |
+
 ## Cara Menjalankan
+
+Require python >= 3.10
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
